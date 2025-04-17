@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @gkvpp1876
-- 👀 I’m interested in Technology, Web3, Metaverse, Trading, and Networking
-- 🌱 I’m currently learning Web3, Solidity, JS Libraries for Web3, 
-- 💞️ I’m looking to collaborate on Web3 projects
-- 📫 How to reach me Twitter DM or Telegram on @gkvpp1876
+- 🙏 Namaste, I’m @gkvpp1876
+- 👀 Results-oriented Full Stack Developer with 7+ years of experience building scalable and efficient web applications. Expertise in .NET technologies, Angular, and cloud platforms (Azure, AWS), with a proven track record of modernizing legacy systems, automating processes, and improving application performance. A period of self-directed learning and exploration (Apr 2024 – Present) has expanded technical skills and enriched problem-solving abilities. Passionate about creating user-friendly solutions and collaborating effectively within agile teams.
 
 <!---
 gkvpp1876/gkvpp1876 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
